@@ -1,0 +1,2 @@
+spring:  jpa:    show-sql: true    hibernate:      ddl-auto: create  datasource:    platform: postgres    url: jdbc:postgresql://localhost:5432/GRAPHQL    username: postgres    password: '951753'    driver-class-name: org.postgresql.Driver
+           
